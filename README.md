@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">French general engineering student</h3>
-<h4 align="center">This is my work profile, please find my personnal profile <a href="https://github.com/Sarrus1/">here</a>.</h3>
+<h4 align="center">This is my work profile, please find my personal profile <a href="https://github.com/Sarrus1/">here</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charles-zablit&label=Profile%20views&color=0e75b6&style=flat" alt="charles-zablit" /> </p>
 
