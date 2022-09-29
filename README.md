@@ -1,16 +1,19 @@
-# github-profile-summary-cards-example
+# Charles Zablit
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<h3 align="center">French general engineering student</h3>
+<h4 align="center">This is my work profile, please find my personnal profile <a href="https://github.com/Sarrus1/">here</a>.</h3>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charles-zablit&label=Profile%20views&color=0e75b6&style=flat" alt="charles-zablit" /> </p>
 
-```To create your profile README you need to name the repo as your username```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charles-zablit" alt="charles-zablit" /></a> </p>
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+- 🔭 I’m currently working on [Nantral Platform](https://github.com/nantralPlatform/nantral-platform)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 🌱 I’m currently learning **Rust**
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/charles-zablit/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/charles-zablit/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/charles-zablit/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/charles-zablit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/charles-zablit/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/charles-zablit/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/charles-zablit/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/charles-zablit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/charles-zablit/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/charles-zablit/github-profile-summary-cards)
+
+[More Info](https://github.com/charles-zablit/github-profile-summary-cards)
