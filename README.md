@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charles-zablit" alt="charles-zablit" /></a> </p>
 
-- 🔭 I’m currently working on [Nantral Platform](https://github.com/nantralPlatform/nantral-platform)
+- 🔭 I’m currently working on [Nantral Platform](https://github.com/nantral-platform/nantralPlatform)
 
 - 🌱 I’m currently learning **Rust**
 
